@@ -1,9 +1,6 @@
 # APX market data parser
 
 ---
-**NB!** Please check your spam folder if you did not receive an email "**Test assignment from Sympower**" with instructions 
-from [dev-test-assignment@sympower.net](mailto:dev-test-assignment@sympower.net)
----
 Example of JSON data that we need to parse is available at
 `src/test/resources/net/sympower/cityzen/apx/apx-data.json`
 
