@@ -22,15 +22,3 @@ For JSON parsing, we use [Jackson](https://github.com/FasterXML/jackson).
 ### Building
 
 You can use either Gradle, Gradle wrapper or Maven (we use Gradle 3.1+).
-
-### FAQ
-
-#### Troubleshooting repository cloning issues
-
-If you can access the repository in the browser, you already have the necessary permissions.
-
-Here is a guide on [how to clone the repository](https://support.atlassian.com/bitbucket-cloud/docs/clone-a-git-repository/) via HTTPS or SSH.
-
-If you decide to use SSH, here is a guide on [setting up your SSH key](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/).
-
-If you decide to use HTTPS, keep in mind that you need to [create an app password](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity).
